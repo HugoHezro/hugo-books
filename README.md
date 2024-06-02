@@ -3,7 +3,6 @@
 <img loading="lazy" src="https://img.shields.io/badge/status-Concluido-Concluido?style=for-the-badge"/> 
 <img loading="lazy" src="https://img.shields.io/badge/css-on-%2F?style=for-the-badge"/>
 <img loading="lazy" src="https://img.shields.io/badge/html-on-%2F?style=for-the-badge&logo=html5"/>
-<img loading="lazy" src="https://img.shields.io/badge/javascript-on-%2F?style=for-the-badge&logo=javascript"/>
 </p>
 <h2>Descrição do Projeto</h2>
 <p>Projeto criado para finalidades de aprendizado!!/</p>
