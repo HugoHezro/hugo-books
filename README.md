@@ -1,4 +1,4 @@
-<h1 align="center"> Site Hugo Books</h1>
+<h1 align="start"><img loading="lazy" style=margin-left: 10px; src="https://raw.githubusercontent.com/HugoHezro/hugo-books/458ff047f675a8d2b7f4ebde58dbfb099032922a/assets/icones/Logo.svg"/> Site HugoBooks </h1>
 <p>
 <img loading="lazy" src="https://img.shields.io/badge/status-Concluido-Concluido?style=for-the-badge"/> 
 <img loading="lazy" src="https://img.shields.io/badge/css-on-%2F?style=for-the-badge"/>
